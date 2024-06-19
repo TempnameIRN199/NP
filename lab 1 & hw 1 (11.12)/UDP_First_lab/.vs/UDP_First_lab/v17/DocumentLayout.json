@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Google Drive\\Learn\\NP\\NP\\lab 1 \u0026 hw 1 (11.12)\\UDP_First_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5021192F-8137-42FB-A607-B8A8E836B293}|UDP_First_lab\\UDP_First_lab.csproj|f:\\google drive\\learn\\np\\np\\lab 1 \u0026 hw 1 (11.12)\\udp_first_lab\\udp_first_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5021192F-8137-42FB-A607-B8A8E836B293}|UDP_First_lab\\UDP_First_lab.csproj|solutionrelative:udp_first_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5021192F-8137-42FB-A607-B8A8E836B293}|UDP_First_lab\\UDP_First_lab.csproj|f:\\google drive\\learn\\np\\np\\lab 1 \u0026 hw 1 (11.12)\\udp_first_lab\\udp_first_lab\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5021192F-8137-42FB-A607-B8A8E836B293}|UDP_First_lab\\UDP_First_lab.csproj|solutionrelative:udp_first_lab\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\Google Drive\\Learn\\NP\\NP\\lab 1 \u0026 hw 1 (11.12)\\UDP_First_lab\\UDP_First_lab\\Entity\\Car.cs",
+              "RelativeDocumentMoniker": "UDP_First_lab\\Entity\\Car.cs",
+              "ToolTip": "F:\\Google Drive\\Learn\\NP\\NP\\lab 1 \u0026 hw 1 (11.12)\\UDP_First_lab\\UDP_First_lab\\Entity\\Car.cs",
+              "RelativeToolTip": "UDP_First_lab\\Entity\\Car.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:17:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Google Drive\\Learn\\NP\\NP\\lab 1 \u0026 hw 1 (11.12)\\UDP_First_lab\\UDP_First_lab\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_First_lab\\Program.cs",
+              "ToolTip": "F:\\Google Drive\\Learn\\NP\\NP\\lab 1 \u0026 hw 1 (11.12)\\UDP_First_lab\\UDP_First_lab\\Program.cs",
+              "RelativeToolTip": "UDP_First_lab\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:32:50.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.exe
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.deps.json
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.runtimeconfig.json
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.pdb
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.csproj.AssemblyReference.cache
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.AssemblyInfoInputs.cache
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.AssemblyInfo.cs
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.csproj.CoreCompileInputs.cache
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_Firs.AACF3713.Up2Date
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\refint\UDP_First_lab.dll
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.pdb
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.genruntimeconfig.cache
+C:\Users\vitya\source\repos\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\ref\UDP_First_lab.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.csproj.AssemblyReference.cache
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.AssemblyInfoInputs.cache
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.AssemblyInfo.cs
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.csproj.CoreCompileInputs.cache
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.sourcelink.json
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\refint\UDP_First_lab.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.pdb
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.exe
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.deps.json
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.runtimeconfig.json
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\UDP_First_lab.pdb
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\EntityFramework.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.CodeDom.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_Firs.AACF3713.Up2Date
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\UDP_First_lab.genruntimeconfig.cache
+F:\Google Drive\Learn\NP\NP\lab 1 & hw 1 (11.12)\UDP_First_lab\UDP_First_lab\obj\Debug\net8.0\ref\UDP_First_lab.dll
