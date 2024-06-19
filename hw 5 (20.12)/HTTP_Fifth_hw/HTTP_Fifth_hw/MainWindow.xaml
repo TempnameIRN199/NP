@@ -1,0 +1,22 @@
+﻿<Window x:Class="HTTP_Fifth_hw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HTTP_Fifth_hw"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="750">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBox Name="UrlTextBox" Width="600" Height="30" Margin="0,0,10,0" FontSize="14" Padding="5"/>
+            <Button Content="Parse" Width="100" Height="30" FontSize="14" Click="ParseButton_Click"/>
+        </StackPanel>
+        <TextBox Name="ResultTextBox" Grid.Row="1" Margin="10" FontSize="14" Padding="10"
+                 VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"
+                 IsReadOnly="True" Background="White" TextWrapping="Wrap" AcceptsReturn="True"/>
+    </Grid>
+</Window>
