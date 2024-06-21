@@ -33,10 +33,8 @@ namespace API_Sixth_Lab
             public long Dt { get; set; }
             public double Temp { get; set; }
         }
-
-        //private const string ApiKey = "52ba1eac03829f8341ec67fab91e0174";
-
-        private static string ApiKey = ("d28b5e78980c9d4b570241cdc00dbf71");
+        
+        private static string ApiKey = ("");
         public SeriesCollection TemperatureValues { get; set; }
         public List<string> TimeLabels { get; set; }
 
